@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    margin: 50px;
+}
+
+input {
+    padding: 8px;
+    margin: 5px;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
